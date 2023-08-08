@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchaddha&label=Profile%20views&color=0e75b6&style=flat" alt="yashchaddha" /> </p>
 
+- 🔭 I’m currently working on **Convolutional Neural Networks**
 - 👨‍💻 All of my projects are available at [yashchaddha.com](yashchaddha.com)
 
 - 📝 I regularly write articles on [https://medium.com/@yash.chaddha1997/building-a-logistic-regression-using-neural-networks-cat-vs-non-cat-image-classification-d8675208da5a](https://medium.com/@yash.chaddha1997/building-a-logistic-regression-using-neural-networks-cat-vs-non-cat-image-classification-d8675208da5a)
